@@ -14,7 +14,7 @@
 #include <poll.h>
 #include "reactor.hpp"
 
-#define PORT "3491" // Port we're listening on
+#define PORT "3492" // Port we're listening on
 
 int fd_count;
 struct pollfd *pfds;
